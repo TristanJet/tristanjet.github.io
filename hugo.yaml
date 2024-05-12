@@ -1,7 +1,7 @@
 baseURL: https://example.com
 languageCode: en-us
 title: Jet
-theme: mini-jet
+theme: github.com/tristanjet/mini-jet
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
 defaultContentLanguage: en
@@ -9,7 +9,7 @@ dateFormat: "January 2 2006"
 timezone: "Europe/Helsinki"
 
 # !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
-themesDir: ../
+#themesDir: ../
 
 hasCJKLanguage: true
 permalinks:
